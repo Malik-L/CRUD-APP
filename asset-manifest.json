@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Malik-L/Malik-L.github.io.git/static/js/main.a766c948.chunk.js",
+    "main.js.map": "/Malik-L/Malik-L.github.io.git/static/js/main.a766c948.chunk.js.map",
+    "runtime-main.js": "/Malik-L/Malik-L.github.io.git/static/js/runtime-main.03457b4d.js",
+    "runtime-main.js.map": "/Malik-L/Malik-L.github.io.git/static/js/runtime-main.03457b4d.js.map",
+    "static/css/2.11829350.chunk.css": "/Malik-L/Malik-L.github.io.git/static/css/2.11829350.chunk.css",
+    "static/js/2.655369b8.chunk.js": "/Malik-L/Malik-L.github.io.git/static/js/2.655369b8.chunk.js",
+    "static/js/2.655369b8.chunk.js.map": "/Malik-L/Malik-L.github.io.git/static/js/2.655369b8.chunk.js.map",
+    "index.html": "/Malik-L/Malik-L.github.io.git/index.html",
+    "precache-manifest.5e5f2296468fd51b41c0895dfba30f6b.js": "/Malik-L/Malik-L.github.io.git/precache-manifest.5e5f2296468fd51b41c0895dfba30f6b.js",
+    "service-worker.js": "/Malik-L/Malik-L.github.io.git/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/Malik-L/Malik-L.github.io.git/static/css/2.11829350.chunk.css.map",
+    "static/js/2.655369b8.chunk.js.LICENSE.txt": "/Malik-L/Malik-L.github.io.git/static/js/2.655369b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03457b4d.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.655369b8.chunk.js",
+    "static/js/main.a766c948.chunk.js"
+  ]
+}
